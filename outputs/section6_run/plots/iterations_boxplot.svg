@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<rect width="100%" height="100%" fill="white"/>
+<text x="640.0" y="40" text-anchor="middle" font-size="26" font-family="Arial">Iterations</text>
+<text x="640.0" y="68" text-anchor="middle" font-size="14" fill="#555" font-family="Arial">Red diamond = mean, box = SE, whiskers = 95% CI</text>
+<line x1="100" y1="80" x2="100" y2="580" stroke="#222" stroke-width="2"/>
+<line x1="100" y1="580" x2="1240" y2="580" stroke="#222" stroke-width="2"/>
+<line x1="92" y1="580.0" x2="1240" y2="580.0" stroke="#ddd" stroke-width="1"/>
+<text x="86" y="585.0" text-anchor="end" font-size="14" font-family="Arial">4.421</text>
+<line x1="92" y1="480.0" x2="1240" y2="480.0" stroke="#ddd" stroke-width="1"/>
+<text x="86" y="485.0" text-anchor="end" font-size="14" font-family="Arial">4.727</text>
+<line x1="92" y1="380.0" x2="1240" y2="380.0" stroke="#ddd" stroke-width="1"/>
+<text x="86" y="385.0" text-anchor="end" font-size="14" font-family="Arial">5.033</text>
+<line x1="92" y1="280.0" x2="1240" y2="280.0" stroke="#ddd" stroke-width="1"/>
+<text x="86" y="285.0" text-anchor="end" font-size="14" font-family="Arial">5.339</text>
+<line x1="92" y1="180.0" x2="1240" y2="180.0" stroke="#ddd" stroke-width="1"/>
+<text x="86" y="185.0" text-anchor="end" font-size="14" font-family="Arial">5.645</text>
+<line x1="92" y1="80.0" x2="1240" y2="80.0" stroke="#ddd" stroke-width="1"/>
+<text x="86" y="85.0" text-anchor="end" font-size="14" font-family="Arial">5.951</text>
+<line x1="143.84615384615384" y1="359.77264568788985" x2="143.84615384615384" y2="114.48275862068974" stroke="#333" stroke-width="2"/>
+<line x1="129.0480769230769" y1="359.77264568788985" x2="158.64423076923077" y2="359.77264568788985" stroke="#333" stroke-width="2"/>
+<line x1="129.0480769230769" y1="114.48275862068974" x2="158.64423076923077" y2="114.48275862068974" stroke="#333" stroke-width="2"/>
+<rect x="124.11538461538461" y="174.55375137184092" width="39.46153846153846" height="125.14790156489778" fill="#9ecae1" stroke="#3182bd" stroke-width="2"/>
+<polygon points="143.85,229.13 157.66,237.13 143.85,245.13 130.03,237.13" fill="#d62728" stroke="#8c1515" stroke-width="1.5"/>
+<text x="143.84615384615384" y="608" text-anchor="middle" font-size="13" font-family="Arial" transform="rotate(35 143.84615384615384 608)">random</text>
+<line x1="231.53846153846155" y1="522.0163883238429" x2="231.53846153846155" y2="292.134226660893" stroke="#333" stroke-width="2"/>
+<line x1="216.7403846153846" y1="522.0163883238429" x2="246.33653846153848" y2="522.0163883238429" stroke="#333" stroke-width="2"/>
+<line x1="216.7403846153846" y1="292.134226660893" x2="246.33653846153848" y2="292.134226660893" stroke="#333" stroke-width="2"/>
+<rect x="211.80769230769232" y="348.4318989048808" width="39.46153846153846" height="117.28681717497415" fill="#9ecae1" stroke="#3182bd" stroke-width="2"/>
+<polygon points="231.54,399.08 245.35,407.08 231.54,415.08 217.73,407.08" fill="#d62728" stroke="#8c1515" stroke-width="1.5"/>
+<text x="231.53846153846155" y="608" text-anchor="middle" font-size="13" font-family="Arial" transform="rotate(35 231.53846153846155 608)">S_E</text>
+<line x1="319.2307692307692" y1="450.74941472533266" x2="319.2307692307692" y2="213.06293399879576" stroke="#333" stroke-width="2"/>
+<line x1="304.4326923076923" y1="450.74941472533266" x2="334.02884615384613" y2="450.74941472533266" stroke="#333" stroke-width="2"/>
+<line x1="304.4326923076923" y1="213.06293399879576" x2="334.02884615384613" y2="213.06293399879576" stroke="#333" stroke-width="2"/>
+<rect x="299.5" y="271.27186805427425" width="39.46153846153846" height="121.26861261557991" fill="#9ecae1" stroke="#3182bd" stroke-width="2"/>
+<polygon points="319.23,323.91 333.04,331.91 319.23,339.91 305.42,331.91" fill="#d62728" stroke="#8c1515" stroke-width="1.5"/>
+<text x="319.2307692307692" y="608" text-anchor="middle" font-size="13" font-family="Arial" transform="rotate(35 319.2307692307692 608)">S_NE</text>
+<line x1="406.9230769230769" y1="390.567474056956" x2="406.9230769230769" y2="155.5888402023487" stroke="#333" stroke-width="2"/>
+<line x1="392.125" y1="390.567474056956" x2="421.7211538461538" y2="390.567474056956" stroke="#333" stroke-width="2"/>
+<line x1="392.125" y1="155.5888402023487" x2="421.7211538461538" y2="155.5888402023487" stroke="#333" stroke-width="2"/>
+<rect x="387.1923076923077" y="213.13462808510954" width="39.46153846153846" height="119.88705808908557" fill="#9ecae1" stroke="#3182bd" stroke-width="2"/>
+<polygon points="406.92,265.08 420.73,273.08 406.92,281.08 393.11,273.08" fill="#d62728" stroke="#8c1515" stroke-width="1.5"/>
+<text x="406.9230769230769" y="608" text-anchor="middle" font-size="13" font-family="Arial" transform="rotate(35 406.9230769230769 608)">S_W</text>
+<line x1="494.61538461538464" y1="536.0899921887683" x2="494.61538461538464" y2="330.35219366922234" stroke="#333" stroke-width="2"/>
+<line x1="479.81730769230774" y1="536.0899921887683" x2="509.41346153846155" y2="536.0899921887683" stroke="#333" stroke-width="2"/>
+<line x1="479.81730769230774" y1="330.35219366922234" x2="509.41346153846155" y2="330.35219366922234" stroke="#333" stroke-width="2"/>
+<rect x="474.8846153846154" y="380.73696065360105" width="39.46153846153846" height="104.9682645507886" fill="#9ecae1" stroke="#3182bd" stroke-width="2"/>
+<polygon points="494.62,425.22 508.43,433.22 494.62,441.22 480.80,433.22" fill="#d62728" stroke="#8c1515" stroke-width="1.5"/>
+<text x="494.61538461538464" y="608" text-anchor="middle" font-size="13" font-family="Arial" transform="rotate(35 494.61538461538464 608)">S_NW</text>
+<line x1="582.3076923076924" y1="447.2526243738432" x2="582.3076923076924" y2="236.1690634277554" stroke="#333" stroke-width="2"/>
+<line x1="567.5096153846155" y1="447.2526243738432" x2="597.1057692307693" y2="447.2526243738432" stroke="#333" stroke-width="2"/>
+<line x1="567.5096153846155" y1="236.1690634277554" x2="597.1057692307693" y2="236.1690634277554" stroke="#333" stroke-width="2"/>
+<rect x="562.5769230769231" y="287.8629967206749" width="39.46153846153846" height="107.69569436024881" fill="#9ecae1" stroke="#3182bd" stroke-width="2"/>
+<polygon points="582.31,333.71 596.12,341.71 582.31,349.71 568.50,341.71" fill="#d62728" stroke="#8c1515" stroke-width="1.5"/>
+<text x="582.3076923076924" y="608" text-anchor="middle" font-size="13" font-family="Arial" transform="rotate(35 582.3076923076924 608)">S_B</text>
+<line x1="670.0" y1="463.6490153603063" x2="670.0" y2="232.8455651596063" stroke="#333" stroke-width="2"/>
+<line x1="655.2019230769231" y1="463.6490153603063" x2="684.7980769230769" y2="463.6490153603063" stroke="#333" stroke-width="2"/>
+<line x1="655.2019230769231" y1="232.8455651596063" x2="684.7980769230769" y2="232.8455651596063" stroke="#333" stroke-width="2"/>
+<rect x="650.2692307692307" y="289.36885908630825" width="39.46153846153846" height="117.75686234729613" fill="#9ecae1" stroke="#3182bd" stroke-width="2"/>
+<polygon points="670.00,340.25 683.81,348.25 670.00,356.25 656.19,348.25" fill="#d62728" stroke="#8c1515" stroke-width="1.5"/>
+<text x="670.0" y="608" text-anchor="middle" font-size="13" font-family="Arial" transform="rotate(35 670.0 608)">S_NB</text>
+<line x1="757.6923076923077" y1="488.79470718058667" x2="757.6923076923077" y2="292.67367600836496" stroke="#333" stroke-width="2"/>
+<line x1="742.8942307692308" y1="488.79470718058667" x2="772.4903846153846" y2="488.79470718058667" stroke="#333" stroke-width="2"/>
+<line x1="742.8942307692308" y1="292.67367600836496" x2="772.4903846153846" y2="292.67367600836496" stroke="#333" stroke-width="2"/>
+<rect x="737.9615384615385" y="340.70331629543966" width="39.46153846153846" height="100.06175059807236" fill="#9ecae1" stroke="#3182bd" stroke-width="2"/>
+<polygon points="757.69,382.73 771.50,390.73 757.69,398.73 743.88,390.73" fill="#d62728" stroke="#8c1515" stroke-width="1.5"/>
+<text x="757.6923076923077" y="608" text-anchor="middle" font-size="13" font-family="Arial" transform="rotate(35 757.6923076923077 608)">S_EIG</text>
+<line x1="845.3846153846154" y1="545.5172413793102" x2="845.3846153846154" y2="340.5342835561512" stroke="#333" stroke-width="2"/>
+<line x1="830.5865384615385" y1="545.5172413793102" x2="860.1826923076923" y2="545.5172413793102" stroke="#333" stroke-width="2"/>
+<line x1="830.5865384615385" y1="340.5342835561512" x2="860.1826923076923" y2="340.5342835561512" stroke="#333" stroke-width="2"/>
+<rect x="825.6538461538461" y="390.7341915944759" width="39.46153846153846" height="104.58314174650974" fill="#9ecae1" stroke="#3182bd" stroke-width="2"/>
+<polygon points="845.38,435.03 859.20,443.03 845.38,451.03 831.57,443.03" fill="#d62728" stroke="#8c1515" stroke-width="1.5"/>
+<text x="845.3846153846154" y="608" text-anchor="middle" font-size="13" font-family="Arial" transform="rotate(35 845.3846153846154 608)">S_NEIG</text>
+<line x1="933.0769230769231" y1="475.88649238496754" x2="933.0769230769231" y2="240.2174272124158" stroke="#333" stroke-width="2"/>
+<line x1="918.2788461538462" y1="475.88649238496754" x2="947.875" y2="475.88649238496754" stroke="#333" stroke-width="2"/>
+<line x1="918.2788461538462" y1="240.2174272124158" x2="947.875" y2="240.2174272124158" stroke="#333" stroke-width="2"/>
+<rect x="913.3461538461538" y="297.93230031589803" width="39.46153846153846" height="120.2393189655873" fill="#9ecae1" stroke="#3182bd" stroke-width="2"/>
+<polygon points="933.08,350.05 946.89,358.05 933.08,366.05 919.27,358.05" fill="#d62728" stroke="#8c1515" stroke-width="1.5"/>
+<text x="933.0769230769231" y="608" text-anchor="middle" font-size="13" font-family="Arial" transform="rotate(35 933.0769230769231 608)">S_DU</text>
+<line x1="1020.7692307692308" y1="447.3780414325575" x2="1020.7692307692308" y2="177.21562913662947" stroke="#333" stroke-width="2"/>
+<line x1="1005.9711538461539" y1="447.3780414325575" x2="1035.5673076923078" y2="447.3780414325575" stroke="#333" stroke-width="2"/>
+<line x1="1005.9711538461539" y1="177.21562913662947" x2="1035.5673076923078" y2="177.21562913662947" stroke="#333" stroke-width="2"/>
+<rect x="1001.0384615384615" y="243.37785255604047" width="39.46153846153846" height="137.83796545710607" fill="#9ecae1" stroke="#3182bd" stroke-width="2"/>
+<polygon points="1020.77,304.30 1034.58,312.30 1020.77,320.30 1006.96,312.30" fill="#d62728" stroke="#8c1515" stroke-width="1.5"/>
+<text x="1020.7692307692308" y="608" text-anchor="middle" font-size="13" font-family="Arial" transform="rotate(35 1020.7692307692308 608)">S_NDU</text>
+<line x1="1108.4615384615386" y1="368.50017092677314" x2="1108.4615384615386" y2="151.51035789590404" stroke="#333" stroke-width="2"/>
+<line x1="1093.6634615384617" y1="368.50017092677314" x2="1123.2596153846155" y2="368.50017092677314" stroke="#333" stroke-width="2"/>
+<line x1="1093.6634615384617" y1="151.51035789590404" x2="1123.2596153846155" y2="151.51035789590404" stroke="#333" stroke-width="2"/>
+<rect x="1088.7307692307693" y="204.65072027081072" width="39.46153846153846" height="110.70908828105576" fill="#9ecae1" stroke="#3182bd" stroke-width="2"/>
+<polygon points="1108.46,252.01 1122.27,260.01 1108.46,268.01 1094.65,260.01" fill="#d62728" stroke="#8c1515" stroke-width="1.5"/>
+<text x="1108.4615384615386" y="608" text-anchor="middle" font-size="13" font-family="Arial" transform="rotate(35 1108.4615384615386 608)">S_DC</text>
+<line x1="1196.1538461538462" y1="412.605671173766" x2="1196.1538461538462" y2="185.84221395879354" stroke="#333" stroke-width="2"/>
+<line x1="1181.3557692307693" y1="412.605671173766" x2="1210.951923076923" y2="412.605671173766" stroke="#333" stroke-width="2"/>
+<line x1="1181.3557692307693" y1="185.84221395879354" x2="1210.951923076923" y2="185.84221395879354" stroke="#333" stroke-width="2"/>
+<rect x="1176.423076923077" y="241.37612184817462" width="39.46153846153846" height="115.69564143621031" fill="#9ecae1" stroke="#3182bd" stroke-width="2"/>
+<polygon points="1196.15,291.22 1209.97,299.22 1196.15,307.22 1182.34,299.22" fill="#d62728" stroke="#8c1515" stroke-width="1.5"/>
+<text x="1196.1538461538462" y="608" text-anchor="middle" font-size="13" font-family="Arial" transform="rotate(35 1196.1538461538462 608)">S_NDC</text>
+<text x="24" y="330.0" text-anchor="middle" font-size="16" font-family="Arial" transform="rotate(-90 24 330.0)">Iterations</text>
+</svg>
