@@ -1,0 +1,120 @@
+{
+  "config": {
+    "num_alternatives": 50,
+    "num_criteria": 4,
+    "num_feature_points": 4,
+    "num_classes": 5,
+    "num_dms": 3,
+    "repetitions": 100,
+    "stop_mode": "utility_stability",
+    "stop_threshold": 0.05,
+    "stable_rounds": 3,
+    "max_iterations": 15,
+    "initial_queries": 5,
+    "random_seed": 20260322,
+    "threshold_jitter": 0.015,
+    "dm_noise": 0.08,
+    "utility_slack": 0.02,
+    "eig_weight_entropy": 0.45,
+    "eig_weight_width": 0.35,
+    "eig_weight_concentration": 0.2,
+    "neighbor_bandwidth": 0.75
+  },
+  "strategies": [
+    "random",
+    "S_E",
+    "S_NE",
+    "S_W",
+    "S_NW",
+    "S_B",
+    "S_NB",
+    "S_EIG",
+    "S_NEIG",
+    "S_DU",
+    "S_NDU",
+    "S_DC",
+    "S_NDC"
+  ],
+  "num_runs": 1300,
+  "elapsed_seconds": 25.455496549606323,
+  "summary": {
+    "random": {
+      "accuracy": 0.5566,
+      "queries_used": 10.47,
+      "iterations": 5.47,
+      "accuracy_per_question": 0.05450275474525476
+    },
+    "S_E": {
+      "accuracy": 0.5492,
+      "queries_used": 9.95,
+      "iterations": 4.95,
+      "accuracy_per_question": 0.05653901431901432
+    },
+    "S_NE": {
+      "accuracy": 0.5242,
+      "queries_used": 10.18,
+      "iterations": 5.18,
+      "accuracy_per_question": 0.052971479076479075
+    },
+    "S_W": {
+      "accuracy": 0.5719999999999996,
+      "queries_used": 10.36,
+      "iterations": 5.36,
+      "accuracy_per_question": 0.05655612776112775
+    },
+    "S_NW": {
+      "accuracy": 0.5092,
+      "queries_used": 9.87,
+      "iterations": 4.87,
+      "accuracy_per_question": 0.052498177933177924
+    },
+    "S_B": {
+      "accuracy": 0.5554,
+      "queries_used": 10.15,
+      "iterations": 5.15,
+      "accuracy_per_question": 0.05558035520035518
+    },
+    "S_NB": {
+      "accuracy": 0.5376000000000001,
+      "queries_used": 10.13,
+      "iterations": 5.13,
+      "accuracy_per_question": 0.054096640859140885
+    },
+    "S_EIG": {
+      "accuracy": 0.5382000000000001,
+      "queries_used": 10.0,
+      "iterations": 5.0,
+      "accuracy_per_question": 0.05469118104118102
+    },
+    "S_NEIG": {
+      "accuracy": 0.5207999999999998,
+      "queries_used": 9.84,
+      "iterations": 4.84,
+      "accuracy_per_question": 0.05393660672660674
+    },
+    "S_DU": {
+      "accuracy": 0.5485999999999998,
+      "queries_used": 10.1,
+      "iterations": 5.1,
+      "accuracy_per_question": 0.055762760572760556
+    },
+    "S_NDU": {
+      "accuracy": 0.5489999999999999,
+      "queries_used": 10.24,
+      "iterations": 5.24,
+      "accuracy_per_question": 0.05521678710178708
+    },
+    "S_DC": {
+      "accuracy": 0.562,
+      "queries_used": 10.4,
+      "iterations": 5.4,
+      "accuracy_per_question": 0.055259409479409466
+    },
+    "S_NDC": {
+      "accuracy": 0.5602,
+      "queries_used": 10.28,
+      "iterations": 5.28,
+      "accuracy_per_question": 0.05584147741147741
+    }
+  }
+}
